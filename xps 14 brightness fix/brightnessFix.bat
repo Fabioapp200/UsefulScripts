@@ -1,0 +1,1 @@
+reg add HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Class\{4d36e968-e325-11ce-bfc1-08002be10318}\0000 /v FeatureTestControl /t Reg_Dword /d 0x0000ffff /f
